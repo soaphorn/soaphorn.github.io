@@ -1,0 +1,16 @@
+# /_data/authors.yml
+
+Billy Rick:
+  name        : "Soaphorn Seuo"
+  bio         : "Web App Sec, Windows Kernel, Broswer and Sandbox"
+  avatar      : "/assets/photo6260069307170007379.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
