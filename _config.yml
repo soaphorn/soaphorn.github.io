@@ -110,7 +110,7 @@ author:
   name             : "Soaphorn"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Cyber Security Guy."
-  location         : "Somewhere on Planet"
+  location         : "Planet"
   email            :
   links:
     - label: "Email"
